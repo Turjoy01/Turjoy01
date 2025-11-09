@@ -26,7 +26,7 @@
 ### 🎓 Education
 **B.Sc. in Computer Science & Engineering (CSE)**  
 📍 *East West University, Dhaka, Bangladesh*  
-🗓️ *2021 – 2025* | 🎯 **CGPA:** 3.00
+🗓️ *2021 – 2025*
 
 ---
 
@@ -99,23 +99,6 @@ English (Fluent) | Bengali (Native) | Hindi (Conversational)
 ### 🌟 Extracurricular Activities
 - **Founder & President – Sunrise Club:** Led social welfare initiatives (blood donation, flood relief, education).  
 - **Member – EWU Programming, Robotics & Telecom Clubs:** Contributed to GameCon, RoboFest & tech fairs.  
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahedihasanturjoy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahedihasanturjoy&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahedihasanturjoy&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <b>“Think Intelligently • Build Responsibly • Innovate for Humanity”</b><br>
