@@ -83,33 +83,11 @@ Worked on applied ML projects, from model training to deployment.
 
 ---
 
-### 🏆 Projects
-
-- **AI Chatbot (Ollama + Gemini API)** — Real-time contextual chatbot for customer support.
-- **AI Grocery Assistant** — Compared prices across Chaldal, Shwapno, and Daraz using Transformers & FastAPI.
-- **Portable Electronic Nose** — Arduino-based aroma classification system (CNN/K-means) with **99.19% accuracy**.
-- **Sarcasm Detection** — Fine-tuned **BERT** achieving **96% accuracy**, deployed via FastAPI + Docker.
-- **AI-Driven CRM System** — Automated email generation with Hugging Face LLMs and campaign tracking.
-- **Content Generation Platform** — Gemini API-powered customizable AI content creator.
-- **Underwater Plastic Detection (YOLOv8)** — Object detection system for environmental monitoring.
-
----
-
 ### 📚 Research Publications
 1. *Reliable Energy Consumption Prediction: Leveraging Deep Learning with SHAP & LIME* – **Springer LNNS**  
 2. *Ultrasound Image-Based Classification of Gallbladder Diseases by Hybrid Model* – **Springer LNNS**  
 3. *Detection of Lemon Leaf Diseases Using InceptionV3* – **Springer LNNS**  
 4. *Pumpkin Leaf Disease Classification: SimCLR vs Supervised Learning* – **IEEE QPAIN 2025 (IEEE Xplore, Scopus Indexed)**  
-
----
-
-### 🎓 Certifications
-- Foundations of AI and ML – Microsoft  
-- AWS Generative AI Applications – AWS  
-- AI Fundamentals & Cloud – AWS  
-- Python Project for Data Engineering – IBM  
-- Generative AI with LLMs – Edureka  
-- Fundamentals of AI Agents with RAG & LangChain – IBM  
 
 ---
 
