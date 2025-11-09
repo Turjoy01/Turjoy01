@@ -1,14 +1,18 @@
-<!-- Stylish Banner / Logo -->
+<!-- Stylish Top Banner -->
 <p align="center">
-  <img src="https://github.com/mahedihasanturjoy/mahedihasanturjoy/blob/main/TurjoyBanner.png" alt="Md. Mahedi Hasan Turjoy Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/mahedihasanturjoy/mahedihasanturjoy/main/TurjoyBanner.png" 
+       alt="Md. Mahedi Hasan Turjoy Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Md. Mahedi Hasan Turjoy</h1>
-<h3 align="center">🤖 AI/ML Engineer | 🧠 Deep Learning Researcher | 💬 NLP & Computer Vision Enthusiast | 🚀 Innovating with Generative AI</h3>
+<h3 align="center">
+  🤖 AI/ML Engineer | 🧠 Deep Learning Researcher | 💬 NLP & Computer Vision Enthusiast | 🚀 Innovating with Generative AI
+</h3>
 
 <p align="center">
-  📍 Dhaka, Bangladesh • 📧 <a href="mailto:mahedi1316@gmail.com">mahedi1316@gmail.com</a> • 📞 +8801636071532  
-  <br>
+  📍 Dhaka, Bangladesh • 
+  📧 <a href="mailto:mahedi1316@gmail.com">mahedi1316@gmail.com</a> • 
+  📞 +8801636071532 <br>
   🌐 <a href="https://turjoys-website.vercel.app/" target="_blank">Portfolio</a> |
   🔗 <a href="https://www.linkedin.com/in/mahedi-hasan-turjoy" target="_blank">LinkedIn</a> |
   💻 <a href="https://github.com/mahedihasanturjoy" target="_blank">GitHub</a>
@@ -17,7 +21,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahedihasanturjoy&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
-
 ---
 
 ### 🎓 Education
