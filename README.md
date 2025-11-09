@@ -1,12 +1,12 @@
-<!-- Stylish Top Banner -->
+<!-- ===== Stylish Top Banner ===== -->
 <p align="center">
   <img src="Black Gray Simple Vlogger YouTube Banner.png" 
        alt="Md. Mahedi Hasan Turjoy Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Md. Mahedi Hasan Turjoy</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#6c63ff;">Md. Mahedi Hasan Turjoy</span></h1>
 <h3 align="center">
-  🤖 AI/ML Engineer | 🧠 Deep Learning Researcher | 💬 NLP & Computer Vision Enthusiast | 🚀 Innovating with Generative AI
+  🤖 AI/ML Engineer | 🧠 Deep Learning Researcher | 💬 NLP & Computer Vision Enthusiast | 🚀 Generative AI Innovator
 </h3>
 
 <p align="center">
@@ -15,93 +15,98 @@
   📞 +8801636071532 <br>
   🌐 <a href="https://turjoys-website.vercel.app/" target="_blank">Portfolio</a> |
   🔗 <a href="https://www.linkedin.com/in/mahedi-hasan-turjoy" target="_blank">LinkedIn</a> |
-  💻 <a href="https://github.com/mahedihasanturjoy" target="_blank">GitHub</a>
+  💻 <a href="https://github.com/Turjoy01" target="_blank">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahedihasanturjoy&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Turjoy01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
+
 ---
 
-### 🎓 Education
+## 🎓 Education
 **B.Sc. in Computer Science & Engineering (CSE)**  
 📍 *East West University, Dhaka, Bangladesh*  
 🗓️ *2021 – 2025*
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 I am an **AI/ML Engineer** specializing in **LLMs**, **Deep Learning**, **NLP**, and **Computer Vision**.  
-I’m passionate about crafting **data-driven intelligent solutions** that blend innovation with impact.  
+I’m passionate about building **intelligent solutions** that combine innovation and impact.  
 
-> “Turning data into intelligence, and intelligence into purpose.”
+> 🌟 *“Turning data into intelligence, and intelligence into purpose.”*
 
 ---
 
-### 🧠 Core Skills
+## 🧠 Core Skills
 
-#### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 PyTorch · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · OpenCV · Streamlit · MLflow · BeautifulSoup · spaCy · SymSpell · Flutter  
 
-#### ☁️ Tools & Cloud Platforms
-VS Code · PyCharm · Jupyter · Google Colab · Azure AI · AWS · n8n · Arduino · LaTeX · Kaggle  
+### ☁️ Tools & Cloud
+VS Code · PyCharm · Jupyter · Colab · Azure AI · AWS · n8n · Arduino · LaTeX · Kaggle  
 
-#### 🤖 AI & ML Techniques
+### 🤖 AI/ML Techniques
 KNN · Random Forest · XGBoost · SVM · AdaBoost · LightGBM · RNN · LSTM · GRU · CNN · ResNet · VGGNet · EfficientNet · Vision Transformer  
 
-#### 🧩 Object Detection & Segmentation
+### 🧩 Object Detection & Segmentation
 YOLOv8 · YOLOv5 · Mask R-CNN · U-Net  
 
-#### 🚀 Development & Deployment
+### 🚀 Development & Deployment
 Flask · FastAPI · Spring Boot · Docker · REST API · Swagger  
 
-#### 🗣️ NLP & LLMs
+### 🗣️ NLP & LLMs
 BERT · RoBERTa · DistilBERT · XLNet · GPT · LangChain · Gemini API · Hugging Face Transformers · LLaMA · Mistral · DeepSeek · Ollama  
 
-#### 💻 Languages
+### 💻 Programming Languages
 Python · Java · C/C++ · JavaScript · TypeScript · Dart · SQL · HTML · CSS  
 
 ---
 
-### 💼 Work Experience
+## 💼 Work Experience
 
 **AI Developer — SM Technology (Betopia Group)**  
 📅 *Oct 2025 – Present*  
-Developing and deploying AI-driven solutions for enterprise automation and predictive analytics.
+💡 Developing AI-driven enterprise automation & predictive analytics solutions.
 
 **ML Engineer — Otech BD**  
 📅 *Feb 2025 – Oct 2025*  
-Built and deployed machine learning and LLM-based applications for production.
+💡 Built & deployed ML and LLM-based production applications.
 
 **AI/ML Trainer — Google Developer Group Sonargaon**  
 📅 *Jul 2021*  
-Conducted 12+ workshops on Gemini API, Conversational AI, and LLM-powered virtual assistants.
+💡 Conducted workshops on Gemini API, Conversational AI & LLM-powered assistants.
 
-**Machine Learning Intern — Codveda Technologies / Wire Cloud Metrics**  
+**Machine Learning Intern — Codveda / Wire Cloud Metrics**  
 📅 *2024*  
-Worked on applied ML projects, from model training to deployment.
+💡 Applied ML models for real-world problems from training to deployment.
 
 ---
 
-### 📚 Research Publications
-1. *Reliable Energy Consumption Prediction: Leveraging Deep Learning with SHAP & LIME* – **Springer LNNS**  
-2. *Ultrasound Image-Based Classification of Gallbladder Diseases by Hybrid Model* – **Springer LNNS**  
-3. *Detection of Lemon Leaf Diseases Using InceptionV3* – **Springer LNNS**  
-4. *Pumpkin Leaf Disease Classification: SimCLR vs Supervised Learning* – **IEEE QPAIN 2025 (IEEE Xplore, Scopus Indexed)**  
+## 📚 Research Publications
+1. 🔹 *Reliable Energy Consumption Prediction: Leveraging Deep Learning with SHAP & LIME* – Springer LNNS  
+2. 🔹 *Ultrasound Image-Based Classification of Gallbladder Diseases by Hybrid Model* – Springer LNNS  
+3. 🔹 *Detection of Lemon Leaf Diseases Using InceptionV3* – Springer LNNS  
+4. 🔹 *Pumpkin Leaf Disease Classification: SimCLR vs Supervised Learning* – IEEE QPAIN 2025 (IEEE Xplore, Scopus Indexed)  
 
 ---
 
-### 🌍 Languages
-English (Fluent) | Bengali (Native) | Hindi (Conversational)
+## 🌍 Languages
+🇬🇧 English (Fluent) | 🇧🇩 Bengali (Native) | 🇮🇳 Hindi (Conversational)
 
 ---
 
-### 🌟 Extracurricular Activities
-- **Founder & President – Sunrise Club:** Led social welfare initiatives (blood donation, flood relief, education).  
-- **Member – EWU Programming, Robotics & Telecom Clubs:** Contributed to GameCon, RoboFest & tech fairs.  
-### 📊 GitHub Analytics
+## 🌟 Extracurricular Activities
+- 🌱 **Founder & President – Sunrise Club:** Social initiatives: blood donation, flood relief, education.  
+- 🤖 **Member – EWU Programming, Robotics & Telecom Clubs:** Participated in GameCon, RoboFest & tech fairs.  
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Turjoy01&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Turjoy01&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -111,8 +116,10 @@ English (Fluent) | Bengali (Native) | Hindi (Conversational)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turjoy01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-------
+
+---
+
 <p align="center">
-  <b>“Think Intelligently • Build Responsibly • Innovate for Humanity”</b><br>
-  <b>— Md. Mahedi Hasan Turjoy</b>
+  ✨ <b>“Think Intelligently • Build Responsibly • Innovate for Humanity”</b> <br>
+  — <i>Md. Mahedi Hasan Turjoy</i>
 </p>
