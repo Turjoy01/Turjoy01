@@ -99,7 +99,19 @@ English (Fluent) | Bengali (Native) | Hindi (Conversational)
 ### 🌟 Extracurricular Activities
 - **Founder & President – Sunrise Club:** Led social welfare initiatives (blood donation, flood relief, education).  
 - **Member – EWU Programming, Robotics & Telecom Clubs:** Contributed to GameCon, RoboFest & tech fairs.  
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Turjoy01&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Turjoy01&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turjoy01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+------
 <p align="center">
   <b>“Think Intelligently • Build Responsibly • Innovate for Humanity”</b><br>
   <b>— Md. Mahedi Hasan Turjoy</b>
