@@ -32,35 +32,24 @@
 ---
 
 ## 💡 About Me
-I am an **AI/ML Engineer** specializing in **LLMs**, **Deep Learning**, **NLP**, and **Computer Vision**.  
-I’m passionate about building **intelligent solutions** that combine innovation and impact.  
+I am a **passionate AI/ML Engineer** specializing in **LLMs**, **Deep Learning**, **NLP**, and **Computer Vision**.  
+I create **data-driven intelligent solutions** that merge innovation with real-world impact.  
 
 > 🌟 *“Turning data into intelligence, and intelligence into purpose.”*
 
 ---
 
-## 🧠 Core Skills
+## 🧰 Core Skills
 
-### ⚙️ Frameworks & Libraries
-PyTorch · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · OpenCV · Streamlit · MLflow · BeautifulSoup · spaCy · SymSpell · Flutter  
-
-### ☁️ Tools & Cloud
-VS Code · PyCharm · Jupyter · Colab · Azure AI · AWS · n8n · Arduino · LaTeX · Kaggle  
-
-### 🤖 AI/ML Techniques
-KNN · Random Forest · XGBoost · SVM · AdaBoost · LightGBM · RNN · LSTM · GRU · CNN · ResNet · VGGNet · EfficientNet · Vision Transformer  
-
-### 🧩 Object Detection & Segmentation
-YOLOv8 · YOLOv5 · Mask R-CNN · U-Net  
-
-### 🚀 Development & Deployment
-Flask · FastAPI · Spring Boot · Docker · REST API · Swagger  
-
-### 🗣️ NLP & LLMs
-BERT · RoBERTa · DistilBERT · XLNet · GPT · LangChain · Gemini API · Hugging Face Transformers · LLaMA · Mistral · DeepSeek · Ollama  
-
-### 💻 Programming Languages
-Python · Java · C/C++ · JavaScript · TypeScript · Dart · SQL · HTML · CSS  
+| Category | Tools & Libraries |
+|----------|-----------------|
+| ⚙️ Frameworks & Libraries | PyTorch · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · OpenCV · Streamlit · MLflow · BeautifulSoup · spaCy · SymSpell · Flutter |
+| ☁️ Tools & Cloud Platforms | VS Code · PyCharm · Jupyter · Google Colab · Azure AI · AWS · n8n · Arduino · LaTeX · Kaggle |
+| 🤖 AI & ML Techniques | KNN · Random Forest · XGBoost · SVM · AdaBoost · LightGBM · RNN · LSTM · GRU · CNN · ResNet · VGGNet · EfficientNet · Vision Transformer |
+| 🧩 Object Detection & Segmentation | YOLOv8 · YOLOv5 · Mask R-CNN · U-Net |
+| 🚀 Development & Deployment | Flask · FastAPI · Spring Boot · Docker · REST API · Swagger |
+| 🗣️ NLP & LLMs | BERT · RoBERTa · DistilBERT · XLNet · GPT · LangChain · Gemini API · Hugging Face Transformers · LLaMA · Mistral · DeepSeek · Ollama |
+| 💻 Programming Languages | Python · Java · C/C++ · JavaScript · TypeScript · Dart · SQL · HTML · CSS |
 
 ---
 
@@ -68,7 +57,7 @@ Python · Java · C/C++ · JavaScript · TypeScript · Dart · SQL · HTML · CS
 
 **AI Developer — SM Technology (Betopia Group)**  
 📅 *Oct 2025 – Present*  
-💡 Developing AI-driven enterprise automation & predictive analytics solutions.
+💡 Developed AI-driven enterprise automation & predictive analytics solutions.
 
 **ML Engineer — Otech BD**  
 📅 *Feb 2025 – Oct 2025*  
@@ -80,7 +69,7 @@ Python · Java · C/C++ · JavaScript · TypeScript · Dart · SQL · HTML · CS
 
 **Machine Learning Intern — Codveda / Wire Cloud Metrics**  
 📅 *2024*  
-💡 Applied ML models for real-world problems from training to deployment.
+💡 Applied ML models to real-world problems, end-to-end.
 
 ---
 
@@ -98,7 +87,7 @@ Python · Java · C/C++ · JavaScript · TypeScript · Dart · SQL · HTML · CS
 ---
 
 ## 🌟 Extracurricular Activities
-- 🌱 **Founder & President – Sunrise Club:** Social initiatives: blood donation, flood relief, education.  
+- 🌱 **Founder & President – Sunrise Club:** Led social initiatives: blood donation, flood relief, education.  
 - 🤖 **Member – EWU Programming, Robotics & Telecom Clubs:** Participated in GameCon, RoboFest & tech fairs.  
 
 ---
@@ -107,19 +96,13 @@ Python · Java · C/C++ · JavaScript · TypeScript · Dart · SQL · HTML · CS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Turjoy01&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Turjoy01&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turjoy01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  ✨ <b>“Think Intelligently • Build Responsibly • Innovate for Humanity”</b> <br>
-  — <i>Md. Mahedi Hasan Turjoy</i>
+✨ <b>“Think Intelligently • Build Responsibly • Innovate for Humanity”</b> <br>
+— <i>Md. Mahedi Hasan Turjoy</i>
 </p>
