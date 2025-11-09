@@ -1,40 +1,108 @@
+<!-- ===== Stylish Top Banner ===== -->
+<p align="center">
+  <img src="Black Gray Simple Vlogger YouTube Banner.png" 
+       alt="Md. Mahedi Hasan Turjoy Banner" width="100%">
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#6c63ff;">Md. Mahedi Hasan Turjoy</span></h1>
+<h3 align="center">
+  🤖 AI/ML Engineer | 🧠 Deep Learning Researcher | 💬 NLP & Computer Vision Enthusiast | 🚀 Generative AI Innovator
+</h3>
+
+<p align="center">
+  📍 Dhaka, Bangladesh • 
+  📧 <a href="mailto:mahedi1316@gmail.com">mahedi1316@gmail.com</a> • 
+  📞 +8801636071532 <br>
+  🌐 <a href="https://turjoys-website.vercel.app/" target="_blank">Portfolio</a> |
+  🔗 <a href="https://www.linkedin.com/in/mahedi-hasan-turjoy" target="_blank">LinkedIn</a> |
+  💻 <a href="https://github.com/Turjoy01" target="_blank">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Turjoy01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## 🎓 Education
+**B.Sc. in Computer Science & Engineering (CSE)**  
+📍 *East West University, Dhaka, Bangladesh*  
+🗓️ *2021 – 2025*
+
+---
+
+## 💡 About Me
+I am a **passionate AI/ML Engineer** specializing in **LLMs**, **Deep Learning**, **NLP**, and **Computer Vision**.  
+I create **data-driven intelligent solutions** that merge innovation with real-world impact.  
+
+> 🌟 *“Turning data into intelligence, and intelligence into purpose.”*
+
+---
+
+## 🧰 Core Skills
+
+| Category | Tools & Libraries |
+|----------|-----------------|
+| ⚙️ Frameworks & Libraries | PyTorch · TensorFlow · Keras · Scikit-learn · Pandas · NumPy · OpenCV · Streamlit · MLflow · BeautifulSoup · spaCy · SymSpell · Flutter |
+| ☁️ Tools & Cloud Platforms | VS Code · PyCharm · Jupyter · Google Colab · Azure AI · AWS · n8n · Arduino · LaTeX · Kaggle |
+| 🤖 AI & ML Techniques | KNN · Random Forest · XGBoost · SVM · AdaBoost · LightGBM · RNN · LSTM · GRU · CNN · ResNet · VGGNet · EfficientNet · Vision Transformer |
+| 🧩 Object Detection & Segmentation | YOLOv8 · YOLOv5 · Mask R-CNN · U-Net |
+| 🚀 Development & Deployment | Flask · FastAPI · Spring Boot · Docker · REST API · Swagger |
+| 🗣️ NLP & LLMs | BERT · RoBERTa · DistilBERT · XLNet · GPT · LangChain · Gemini API · Hugging Face Transformers · LLaMA · Mistral · DeepSeek · Ollama |
+| 💻 Programming Languages | Python · Java · C/C++ · JavaScript · TypeScript · Dart · SQL · HTML · CSS |
+
 ---
 
 ## 💼 Work Experience
 
-<div align="center">
-
-### 🟣 AI Developer — SM Technology (Betopia Group)  
+**AI Developer — SM Technology (Betopia Group)**  
 📅 *Oct 2025 – Present*  
-💡 **Role & Achievements:**  
-- Developed AI-driven enterprise automation & predictive analytics solutions.  
-- Implemented **ML pipelines** for production-level applications.  
-- Collaborated with cross-functional teams to deploy AI solutions seamlessly.  
+💡 Developed AI-driven enterprise automation & predictive analytics solutions.
 
----
-
-### 🔵 ML Engineer — Otech BD  
+**ML Engineer — Otech BD**  
 📅 *Feb 2025 – Oct 2025*  
-💡 **Role & Achievements:**  
-- Built & deployed ML and LLM-based production applications.  
-- Optimized models for performance & scalability.  
-- Mentored junior developers on AI/ML best practices.  
+💡 Built & deployed ML and LLM-based production applications.
 
----
-
-### 🟢 AI/ML Trainer — Google Developer Group Sonargaon  
+**AI/ML Trainer — Google Developer Group Sonargaon**  
 📅 *Jul 2021*  
-💡 **Role & Achievements:**  
-- Conducted 12+ workshops on **Gemini API, Conversational AI & LLM-powered assistants**.  
-- Guided participants in real-world AI projects and hands-on coding.  
+💡 Conducted workshops on Gemini API, Conversational AI & LLM-powered assistants.
+
+**Machine Learning Intern — Codveda / Wire Cloud Metrics**  
+📅 *2024*  
+💡 Applied ML models to real-world problems, end-to-end.
 
 ---
 
-### 🟡 Machine Learning Intern — Codveda Technologies / Wire Cloud Metrics  
-📅 *2024*  
-💡 **Role & Achievements:**  
-- Worked on applied ML projects from model training to deployment.  
-- Developed **predictive models** for business optimization.  
-- Documented findings and presented results to senior management.  
+## 📚 Research Publications
+1. 🔹 *Reliable Energy Consumption Prediction: Leveraging Deep Learning with SHAP & LIME* – Springer LNNS  
+2. 🔹 *Ultrasound Image-Based Classification of Gallbladder Diseases by Hybrid Model* – Springer LNNS  
+3. 🔹 *Detection of Lemon Leaf Diseases Using InceptionV3* – Springer LNNS  
+4. 🔹 *Pumpkin Leaf Disease Classification: SimCLR vs Supervised Learning* – IEEE QPAIN 2025 (IEEE Xplore, Scopus Indexed)  
 
-</div>
+---
+
+## 🌍 Languages
+🇬🇧 English (Fluent) | 🇧🇩 Bengali (Native) | 🇮🇳 Hindi (Conversational)
+
+---
+
+## 🌟 Extracurricular Activities
+- 🌱 **Founder & President – Sunrise Club:** Led social initiatives: blood donation, flood relief, education.  
+- 🤖 **Member – EWU Programming, Robotics & Telecom Clubs:** Participated in GameCon, RoboFest & tech fairs.  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Turjoy01&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Turjoy01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turjoy01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+✨ <b>“Think Intelligently • Build Responsibly • Innovate for Humanity”</b> <br>
+— <i>Md. Mahedi Hasan Turjoy</i>
+</p>
