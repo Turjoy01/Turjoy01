@@ -1,6 +1,6 @@
 <!-- Stylish Top Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahedihasanturjoy/mahedihasanturjoy/main/TurjoyBanner.png" 
+  <img src="Black Gray Simple Vlogger YouTube Banner.png" 
        alt="Md. Mahedi Hasan Turjoy Banner" width="100%">
 </p>
 
