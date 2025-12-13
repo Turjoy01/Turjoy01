@@ -51,7 +51,7 @@
 
 ---
 
-<!-- ===== About Me Section with Code Block Style ===== -->
+<!-- ===== About Me Section - Redesigned ===== -->
 <h2 align="center">🧠 About Me</h2>
 
 <table>
@@ -60,116 +60,112 @@
 
 ### 👨‍💻 Who Am I?
 
-```python
-class MahediHasanTurjoy:
-    def __init__(self):
-        self.username = "Turjoy01"
-        self.full_name = "Md. Mahedi Hasan Turjoy"
-        self.role = "AI/ML Engineer"
-        self.current_company = "SM Technology"
-        self.education = "BSc in CSE"
-        self.university = "East West University"
-        self.location = "Dhaka, Bangladesh 🇧🇩"
-        self.languages = ["English", "Bengali", "Hindi"]
-```
+<img src="https://img.shields.io/badge/Name-Md.%20Mahedi%20Hasan%20Turjoy-6C63FF?style=flat-square&logo=user&logoColor=white"/>
+<img src="https://img.shields.io/badge/Role-AI%2FML%20Engineer-FF6B6B?style=flat-square&logo=robot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Company-SM%20Technology-FFC93C?style=flat-square&logo=building&logoColor=black"/>
+<img src="https://img.shields.io/badge/Education-BSc%20in%20CSE-4CAF50?style=flat-square&logo=graduationcap&logoColor=white"/>
+<img src="https://img.shields.io/badge/University-East%20West%20University-9C27B0?style=flat-square&logo=university&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh%20🇧🇩-00BCD4?style=flat-square&logo=location&logoColor=white"/>
 
 ### 🔭 Current Focus
 
-```python
-    def current_work(self):
-        return {
-            "position": "AI Developer",
-            "company": "SM Technology (Betopia Group)",
-            "focus": [
-                "Large Language Models (LLMs)",
-                "Generative AI Applications",
-                "Deep Learning & NLP",
-                "Computer Vision Systems",
-                "MLOps & Production Deployment"
-            ],
-            "learning": [
-                "Advanced Transformer Architectures",
-                "Multimodal AI Systems",
-                "Retrieval-Augmented Generation (RAG)"
-            ]
-        }
-```
+**Position:** AI Developer at SM Technology (Betopia Group)
 
-### 🎯 Specializations
+**Primary Focus:**
+- 🤖 Large Language Models (LLMs) & Generative AI
+- 🧠 Deep Learning & Neural Network Architectures
+- 💬 Natural Language Processing & Document AI
+- 👁️ Computer Vision & Object Detection Systems
+- ⚡ MLOps & Production AI Deployment
+- 🔧 Backend Development with FastAPI & Microservices
 
-```python
-    def expertise(self):
-        return {
-            "AI_ML_Frameworks": [
-                "PyTorch", "TensorFlow", "Keras",
-                "Scikit-learn", "XGBoost", "LightGBM"
-            ],
-            "Deep_Learning": [
-                "CNN", "RNN", "LSTM", "GRU",
-                "ResNet", "VGG", "EfficientNet",
-                "Vision Transformer", "U-Net"
-            ],
-            "NLP_LLMs": [
-                "BERT", "RoBERTa", "GPT", "LLaMA",
-                "Mistral", "DeepSeek", "Gemini API",
-                "LangChain", "Hugging Face"
-            ],
-            "Computer_Vision": [
-                "YOLOv8", "YOLOv5", "Mask R-CNN",
-                "OpenCV", "Image Classification",
-                "Object Detection", "Segmentation"
-            ]
-        }
-```
+**Currently Learning:**
+- 🎯 Advanced Transformer Architectures
+- 🌐 Multimodal AI Systems (Vision + Language)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🤝 Multi-Agent AI Systems
+- ⚙️ AI Workflow Orchestration
+
+### 🎯 Core Expertise
+
+**AI/ML Frameworks:**
+- PyTorch, TensorFlow, Keras
+- Scikit-learn, XGBoost, LightGBM, CatBoost
+
+**Deep Learning:**
+- CNN, RNN, LSTM, GRU
+- ResNet, EfficientNet, Vision Transformers
+- U-Net, Mask R-CNN
+
+**NLP & LLMs:**
+- BERT, RoBERTa, GPT, LLaMA
+- Mistral, DeepSeek, Gemini API
+- LangChain, Hugging Face
+
+**Computer Vision:**
+- YOLOv8, YOLOv5
+- Object Detection & Segmentation
+- OpenCV, Image Classification
+
+**Backend & Databases:**
+- FastAPI, Flask, Spring Boot
+- MongoDB, PostgreSQL, MySQL
+- Vector Stores: FAISS, Pinecone, ChromaDB
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </div>
 
-### 🏆 Achievements
+### 🏆 Key Achievements
 
-```python
-    def achievements(self):
-        return {
-            "research_papers": 4,
-            "publications": [
-                "Springer LNNS (3 papers)",
-                "IEEE QPAIN 2025 (Scopus Indexed)"
-            ],
-            "leadership": "Founder & President - Sunrise Club",
-            "certifications": [
-                "Gemini API Expert",
-                "ML Production Specialist"
-            ]
-        }
-```
+**📊 Production Impact:**
+- 🚀 Deployed **300+ AI/ML Production Applications**
+- 🏢 Built **15+ Enterprise-Grade AI Systems** for Fortune 500 companies
+- ⚡ Achieved **99.99% Accuracy** in Food Classification System
+- 📈 Trained **1000+ Participants** in AI/ML Workshops
+
+**📚 Research Contributions:**
+- ✅ **4 Published Research Papers** (Springer LNNS & IEEE Scopus)
+- 🔬 Specializations: Energy Prediction, Medical Imaging, Agricultural AI
+- 🎓 Expert in Explainable AI (SHAP, LIME)
+
+**🎖️ Professional Recognition:**
+- 🌟 **Gemini API Expert** Certification
+- ☁️ **AWS AI Solutions** Certified
+- 🤖 **IBM AI Fundamentals** Certified
+- 📊 **ML Production Specialist**
 
 ### 🎓 Education
 
-```python
-    def education(self):
-        return {
-            "degree": "B.Sc. in Computer Science & Engineering",
-            "university": "East West University",
-            "location": "Dhaka, Bangladesh",
-            "period": "2021 - 2025",
-            "cgpa": "Excellent Academic Standing"
-        }
-```
+**Degree:** B.Sc. in Computer Science & Engineering  
+**Institution:** East West University, Dhaka, Bangladesh  
+**Period:** 2021 - 2025  
+**CGPA:** 3.00 / 4.00  
+**Focus Areas:** Artificial Intelligence, Machine Learning, Deep Learning
 
-### ⚡ Philosophy
+### 💡 Languages
 
-```python
-    def motto(self):
-        return """
-        Think Intelligently 🧠
-        Build Responsibly 🛠️
-        Innovate for Humanity 🌍
-        """
-```
+🇬🇧 **English** - Fluent (Professional Proficiency)  
+🇧🇩 **Bengali** - Native Speaker  
+🇮🇳 **Hindi** - Conversational
+
+### 🌟 Leadership
+
+**Founder & President** - Sunrise Club (2015 - Present)
+- 🩸 Organized 50+ Blood Donation Drives
+- 🌊 Led Flood Relief Operations
+- 📚 Educational Support for 200+ Underprivileged Children
+- 💪 Community Development Initiatives
+
+### ⚡ My Philosophy
+
+> *"Building AI that empowers humanity, not replaces it."*
+
+**Core Values:**  
+🎯 **Innovation** • 💡 **Impact** • 🤝 **Integrity** • 🧠 **Intelligence**
 
 </td>
 </tr>
@@ -254,24 +250,24 @@ class MahediHasanTurjoy:
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/><br>
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="80"/><br>
 <b>AI Developer</b><br>
 <sub>SM Technology (Betopia Group)</sub><br>
 <sub>📅 Oct 2025 – Present</sub><br><br>
 <i>Building AI-driven enterprise automation & predictive analytics solutions</i>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/machine-learning.png" width="60"/><br>
+<img src="https://img.icons8.com/color/96/000000/brain.png" width="80"/><br>
 <b>ML Engineer</b><br>
 <sub>Otech BD</sub><br>
 <sub>📅 Feb 2025 – Oct 2025</sub><br><br>
 <i>Deployed production-ready ML & LLM-based applications</i>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/google-logo.png" width="60"/><br>
+<img src="https://img.icons8.com/color/96/000000/teacher.png" width="80"/><br>
 <b>AI/ML Trainer</b><br>
 <sub>Google Developer Group Sonargaon</sub><br>
-<sub>📅 Jul 2021</sub><br><br>
+<sub>📅 Jul 2021 – Present</sub><br><br>
 <i>Conducted workshops on Gemini API & Conversational AI</i>
 </td>
 </tr>
@@ -301,27 +297,27 @@ class MahediHasanTurjoy:
 <table align="center">
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/><br>
 <b>Deep Learning</b><br>
 <sub>Neural Networks & Architectures</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/chatbot.png" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70"/><br>
 <b>NLP & LLMs</b><br>
 <sub>Language Understanding</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/camera.png" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="70"/><br>
 <b>Computer Vision</b><br>
 <sub>Image & Video Analysis</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/robot.png" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="70"/><br>
 <b>Generative AI</b><br>
 <sub>Creative AI Systems</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/graph.png" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70"/><br>
 <b>Explainable AI</b><br>
 <sub>Interpretable Models</sub>
 </td>
@@ -330,13 +326,13 @@ class MahediHasanTurjoy:
 
 ---
 
-<!-- ===== GitHub Analytics with Multiple Themes ===== -->
+<!-- ===== GitHub Analytics ===== -->
 <h2 align="center">📊 GitHub Analytics & Contributions</h2>
 
 <div align="center">
   
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Turjoy01&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=FFC93C)](https://github.com/Turjoy01)
+<img src="https://nirzak-streak-stats.vercel.app/api?user=Turjoy01&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=FFC93C" alt="GitHub Streak Stats" width="100%"/>
 
 </div>
 
@@ -344,109 +340,63 @@ class MahediHasanTurjoy:
 
 <!-- Stats Cards Side by Side -->
 <p align="center">
-  <a href="https://github.com/Turjoy01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Turjoy01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFF"/>
-  </a>
-  <a href="https://github.com/Turjoy01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Turjoy01&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFF"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Turjoy01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turjoy01&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFF"/>
 </p>
 
 <!-- Trophy Display -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Turjoy01&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy"/>
-</p>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Turjoy01&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Turjoy01&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFC93C" width="100%"/>
 </p>
 
-<!-- Detailed Stats (Collapsible) -->
-<details align="center">
-<summary><b>📈 More Detailed Statistics</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Turjoy01&theme=radical" alt="Contribution Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Turjoy01&theme=radical"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Turjoy01&theme=radical"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Turjoy01&theme=radical&utcOffset=6"/>
-</p>
-
-</details>
-
 ---
 
-<!-- ===== Featured Projects Showcase ===== -->
-<h2 align="center">🌟 Featured Projects</h2>
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Turjoy01&repo=energy-prediction-shap&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)](https://github.com/Turjoy01)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Turjoy01&repo=gallbladder-classification&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)](https://github.com/Turjoy01)
-
-</div>
-
----
-
-<!-- ===== Skills Progress Bars ===== -->
+<!-- ===== Skills Proficiency ===== -->
 <h2 align="center">💪 Skills Proficiency</h2>
 
 <div align="center">
 
+**Machine Learning & Data Science**  
+![ML](https://img.shields.io/badge/Proficiency-99%25-4CAF50?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 **Deep Learning & Neural Networks**  
-![Deep Learning](https://img.shields.io/badge/Proficiency-95%25-6C63FF?style=for-the-badge&logo=pytorch)
+![Deep Learning](https://img.shields.io/badge/Proficiency-98%25-6C63FF?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Natural Language Processing**  
-![NLP](https://img.shields.io/badge/Proficiency-92%25-FF6B6B?style=for-the-badge&logo=tensorflow)
-
-**Computer Vision**  
-![Computer Vision](https://img.shields.io/badge/Proficiency-90%25-FFC93C?style=for-the-badge&logo=opencv)
-
-**Machine Learning**  
-![ML](https://img.shields.io/badge/Proficiency-94%25-4CAF50?style=for-the-badge&logo=scikitlearn)
+![NLP](https://img.shields.io/badge/Proficiency-98%25-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **LLMs & Generative AI**  
-![LLMs](https://img.shields.io/badge/Proficiency-88%25-9C27B0?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Proficiency-98%25-9C27B0?style=for-the-badge&logoColor=white)
 
-**MLOps & Deployment**  
-![MLOps](https://img.shields.io/badge/Proficiency-85%25-00BCD4?style=for-the-badge&logo=docker)
+**Computer Vision**  
+![Computer Vision](https://img.shields.io/badge/Proficiency-97%25-FFC93C?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Backend Development (FastAPI, Flask, Spring Boot)**  
+![Backend](https://img.shields.io/badge/Proficiency-97%25-009688?style=for-the-badge&logoColor=white)
+
+**MLOps & Production Deployment**  
+![MLOps](https://img.shields.io/badge/Proficiency-97%25-00BCD4?style=for-the-badge&logo=docker&logoColor=white)
+
+**Cloud Platforms (AWS, Azure, GCP)**  
+![Cloud](https://img.shields.io/badge/Proficiency-96%25-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ===== Leadership & Community ===== -->
-<h2 align="center">🌟 Leadership & Community Impact</h2>
+<!-- ===== Contribution Snake Animation ===== -->
+<h2 align="center">🐍 Contribution Graph</h2>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/fluency/96/000000/sunrise.png" width="60"/><br>
-<b>Founder & President</b><br>
-<sub>Sunrise Club</sub><br><br>
-<i>Leading social initiatives including:</i><br>
-✅ Blood Donation Drives<br>
-✅ Flood Relief Operations<br>
-✅ Educational Support Programs<br>
-✅ Community Development Projects
-</td>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="60"/><br>
-<b>Active Member</b><br>
-<sub>EWU Tech Clubs</sub><br><br>
-<i>Participated in:</i><br>
-🎮 GameCon Competitions<br>
-🤖 RoboFest Events<br>
-📡 Telecom Innovation Fairs<br>
-💻 Programming Contests
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 ---
 
@@ -454,11 +404,12 @@ class MahediHasanTurjoy:
 <h2 align="center">⏱️ Weekly Development Breakdown</h2>
 
 ```text
-Python       ████████████████████░░░░░   85%
-JavaScript   ███████░░░░░░░░░░░░░░░░░░   25%
-Java         █████░░░░░░░░░░░░░░░░░░░░   20%
-SQL          ████░░░░░░░░░░░░░░░░░░░░░   15%
-HTML/CSS     ███░░░░░░░░░░░░░░░░░░░░░░   12%
+Python           ████████████████████░░░░░   85.0%
+JavaScript       ███████░░░░░░░░░░░░░░░░░░   25.0%
+Java             █████░░░░░░░░░░░░░░░░░░░░   20.0%
+SQL              ████░░░░░░░░░░░░░░░░░░░░░   15.0%
+HTML/CSS         ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
+TypeScript       ██░░░░░░░░░░░░░░░░░░░░░░░    8.0%
 ```
 
 ---
@@ -485,38 +436,6 @@ HTML/CSS     ███░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-<!-- ===== Language Stats ===== -->
-<h2 align="center">🗣️ Languages</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🇬🇧_English-Fluent-4CAF50?style=for-the-badge" alt="English"/>
-  <img src="https://img.shields.io/badge/🇧🇩_Bengali-Native-FF6B6B?style=for-the-badge" alt="Bengali"/>
-  <img src="https://img.shields.io/badge/🇮🇳_Hindi-Conversational-FFC93C?style=for-the-badge" alt="Hindi"/>
-</p>
-
----
-
-<!-- ===== Snake Animation ===== -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Turjoy01/Turjoy01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
-<!-- ===== Support Section ===== -->
-<h2 align="center">☕ Support My Work</h2>
-
-<p align="center">
-  <i>If you find my work valuable, consider supporting me!</i><br><br>
-  <a href="https://www.buymeacoffee.com/turjoy" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
----
-
 <!-- ===== Collaboration CTA ===== -->
 <h2 align="center">🤝 Let's Collaborate!</h2>
 
@@ -529,5 +448,20 @@ HTML/CSS     ███░░░░░░░░░░░░░░░░░░░�
 
 ### 📧 Reach Out:
 
-[![Email](https://img.shields.io/badge/Email-mahedi1316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahedi1316@gmail.com)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/mahedi-hasan-turjoy))](https://www.linkedin.com/in/mahedi-hasan-
+<p align="center">
+  <a href="mailto:mahedi1316@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mahedi1316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahedi-hasan-turjoy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<!-- ===== Footer Wave ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
