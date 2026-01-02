@@ -44,9 +44,6 @@
   <a href="https://kaggle.com/turjoy" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="tel:+8801636071532">
-    <img src="https://img.shields.io/badge/📞_+880_1636071532-25D366?style=for-the-badge" alt="Phone"/>
-  </a>
 </p>
 
 ---
