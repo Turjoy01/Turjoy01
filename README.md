@@ -19,7 +19,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Turjoy01&label=Profile%20Views&color=6c63ff&style=for-the-badge)
   ![GitHub followers](https://img.shields.io/github/followers/Turjoy01?label=Followers&style=for-the-badge&color=FF6B6B)
   ![GitHub Stars](https://img.shields.io/github/stars/Turjoy01?label=Total%20Stars&style=for-the-badge&color=FFC93C)
-  ![Repos](https://img.shields.io/badge/Repositories-30+-4CAF50?style=for-the-badge)
+  ![Repos](https://img.shields.io/badge/Repositories-100+-4CAF50?style=for-the-badge)
 
 </div>
 
